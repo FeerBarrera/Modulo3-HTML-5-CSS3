@@ -60,13 +60,13 @@ p{
 }
 .text-primary{
 color: #0B2C2C;
-  float: right;
+  float: center;
   width: 50%;
   height: 100%;
   text-align: center;
   padding: 50px 30px;
   overflow: hidden;
-
+font-size: 30px;
 
 }
 .btn{
@@ -84,7 +84,7 @@ color: #0B2C2C;
 /*paso 6*/
 #welcome{
   background: url('../imagenes/PORTADA.jpg') no-repeat center center/cover;
-  height: 70%;
+  height: 600px;
 }
 #welcome .welcome-content{
   color: #183A3A;
