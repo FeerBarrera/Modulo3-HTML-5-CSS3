@@ -84,7 +84,7 @@ color: #0B2C2C;
 /*paso 6*/
 #welcome{
   background: url('../imagenes/PORTADA.jpg') no-repeat center center/cover;
-  height: 600px;
+  height: 70%;
 }
 #welcome .welcome-content{
   color: #183A3A;
