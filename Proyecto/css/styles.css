@@ -59,19 +59,13 @@ p{
   color: #000606;
 }
 .text-primary{
-  display: flex
-  justify-content:center
-  align-items:center;
-  font-size: 30px;
-  padding: 13px 20px;
-  border: none;
-  cursor: pointer;
-  color: #010505;
-  font-family: MS_Serif;
-  background: #FDFEFE
-  flex-direction:column;
-  $text-decoration-style: #fff;
-  $opacity: .5;
+color: #0B2C2C;
+  float: right;
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  padding: 50px 30px;
+  overflow: hidden;
 
 
 }
